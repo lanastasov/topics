@@ -1,0 +1,10 @@
+- https://github.com/StefanSchroeder/Golang-Regex-Tutorial *Go*
+  - Golang - Regular Expression Tutorial
+- https://github.com/docdis/learn-regex *JS*
+  - A simple REGular EXpression tutorial in JavaScript
+- https://github.com/javallone/regexper-static *Site*
+  - Regular Expression Visualization Site (static site version)
+- https://github.com/kattrali/regexpress *Go*
+  - CLI Go regular expression tester
+- https://github.com/jneem/regex-dfa *Rust*
+  - Proof of concept for fast regexes in rust
