@@ -1,0 +1,2 @@
+- https://github.com/pquerna/ffjson *Go*
+  - faster JSON serialization for Go
