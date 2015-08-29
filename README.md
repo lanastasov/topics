@@ -3,3 +3,4 @@
  - markdown parsers
  - knowledge organization
  - json
+ - text editors
