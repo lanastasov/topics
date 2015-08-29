@@ -4,3 +4,4 @@
  - knowledge organization
  - json
  - text editors
+ - regular expressions
