@@ -15,3 +15,4 @@
  - mindmaps
  - git
  - databases
+ - backup
