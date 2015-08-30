@@ -1,2 +1,4 @@
 - https://github.com/Polytonic/Glitter
   - Dead Simple OpenGL http://polytonic.github.io/Glitter/
+- https://github.com/Walesey/goEngine
+  - open-gl rendering and scenegraph library
