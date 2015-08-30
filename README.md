@@ -22,4 +22,5 @@
  - typography
  - interesting repositories
  - examples
+ - algorithm visualization
  
