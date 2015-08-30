@@ -2,3 +2,5 @@
   - (Work-In-Progress) The Feation programming language. http://feation.ml
 - https://github.com/ark-lang/ark *Go*
   - Ark, a compiled systems programming language written in Go using the LLVM framework http://ark-lang.org
+- https://github.com/rust-lang/rust
+  - A safe, concurrent, practical language.
