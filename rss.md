@@ -1,0 +1,2 @@
+- https://github.com/jpillora/podsling
+  - Generate Podcast RSS feeds for use in your favourite Podcasting apps
