@@ -1,0 +1,2 @@
+- https://golang.org/pkg/expvar/
+  - provides a standardized interface to public variables, such as operation counters in servers. It exposes these variables via HTTP at /debug/vars in JSON format
