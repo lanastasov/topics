@@ -13,3 +13,4 @@
  - torrent processing
  - websockets
  - mindmaps
+ - git
