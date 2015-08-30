@@ -4,6 +4,7 @@
  - knowledge organization
  - json
  - csv
+ - rss
  - text editors
  - regular expressions
  - openGL
