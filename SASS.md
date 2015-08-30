@@ -1,0 +1,2 @@
+- https://github.com/c9s/c6 *Go*
+  - Compile SASS Faster ! C6 is a SASS-compatible compiler written in Go.
