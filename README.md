@@ -9,3 +9,4 @@
  - golang packages
  - exercises repositories
  - sass
+ - audio processing
