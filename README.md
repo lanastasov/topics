@@ -16,3 +16,4 @@
  - git
  - databases
  - backup
+ - note taking
