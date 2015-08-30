@@ -17,3 +17,4 @@
  - databases
  - backup
  - note taking
+ - programming languages
