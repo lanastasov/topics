@@ -21,4 +21,5 @@
  - programming languages
  - typography
  - interesting repositories
+ - examples
  
