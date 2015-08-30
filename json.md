@@ -4,3 +4,5 @@
   - Expose an SQL database through a JSON RPC endpoint. 
 - https://github.com/rcrowley/go-tigertonic
   - A Go framework for building JSON web services inspired by Dropwizard 
+- https://github.com/yudai/gojsondiff
+  - Go JSON Diff 
