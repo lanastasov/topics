@@ -2,3 +2,5 @@
   - faster JSON serialization for Go
 - https://github.com/michaelbironneau/jsql
   - Expose an SQL database through a JSON RPC endpoint. 
+- https://github.com/rcrowley/go-tigertonic
+  - A Go framework for building JSON web services inspired by Dropwizard 
