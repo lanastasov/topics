@@ -1,2 +1,4 @@
 - https://github.com/pquerna/ffjson *Go*
   - faster JSON serialization for Go
+- https://github.com/michaelbironneau/jsql
+  - Expose an SQL database through a JSON RPC endpoint. 
