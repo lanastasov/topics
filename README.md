@@ -11,3 +11,4 @@
  - sass
  - audio processing
  - torrent processing
+ - websockets
