@@ -1,8 +1,8 @@
 - https://github.com/lukasmartinelli/pgfutter *PostgreSQL*
   - Import CSV and JSON into PostgreSQL the easy way
-- https://github.com/sosedoff/pgweb
+- https://github.com/sosedoff/pgweb *PostgreSQL*
   - Web-based PostgreSQL database browser
-- https://github.com/dbcli/pgcli
+- https://github.com/dbcli/pgcli *PostgreSQL*
   - Postgres CLI with autocompletion and syntax highlighting
 - https://github.com/braz/learnyoumongodb
   - Learn MongoDB using the terminal
