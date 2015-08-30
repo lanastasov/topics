@@ -1,2 +1,4 @@
 - https://github.com/Feation/Feation
   - (Work-In-Progress) The Feation programming language. http://feation.ml
+- https://github.com/ark-lang/ark
+  - Ark, a compiled systems programming language written in Go using the LLVM framework http://ark-lang.org
