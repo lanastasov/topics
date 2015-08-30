@@ -1,0 +1,2 @@
+- https://github.com/gwenn/yacr
+  - Yet another CSV Reader
