@@ -3,6 +3,7 @@
  - markdown parsers
  - knowledge organization
  - json
+ - csv
  - text editors
  - regular expressions
  - openGL
@@ -19,3 +20,4 @@
  - note taking
  - programming languages
  - typography
+ 
