@@ -4,3 +4,5 @@
   - Ark, a compiled systems programming language written in Go using the LLVM framework http://ark-lang.org
 - https://github.com/rust-lang/rust
   - A safe, concurrent, practical language.
+- https://github.com/ruby/ruby
+  - The Ruby Programming Language
