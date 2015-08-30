@@ -12,3 +12,4 @@
  - audio processing
  - torrent processing
  - websockets
+ - mindmaps
