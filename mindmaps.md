@@ -1,2 +1,2 @@
-- https://github.com/mindmup
+- https://github.com/mindmup/mindmup
   - Open Source Mind Map
