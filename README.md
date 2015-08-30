@@ -6,3 +6,4 @@
  - text editors
  - regular expressions
  - openGL
+ - golang packages
