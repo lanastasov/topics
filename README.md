@@ -7,3 +7,4 @@
  - regular expressions
  - openGL
  - golang packages
+ - exercises repositories
