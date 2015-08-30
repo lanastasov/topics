@@ -1,0 +1,2 @@
+- https://github.com/worldveil/dejavu
+  - Audio fingerprinting and recognition in Python
