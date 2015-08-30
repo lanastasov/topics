@@ -18,3 +18,4 @@
  - backup
  - note taking
  - programming languages
+ - typography
