@@ -28,5 +28,7 @@
   - The Julia Language: A fresh approach to technical computing 
 - https://github.com/aarongough/koi
   - Koi is a small programming language designed to teach the basics of language implementation. [ALPHA]
+- https://github.com/hf/q
+  - A simple programming language 
   
   
