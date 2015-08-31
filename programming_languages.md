@@ -20,3 +20,5 @@
   - Experimental language 
 - https://github.com/slavapestov/factor
   - Factor programming language - Github mirror of official GIT repo  
+- https://github.com/toml-lang/toml
+  - Tom's Obvious, Minimal Language
