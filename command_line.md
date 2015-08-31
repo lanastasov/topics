@@ -8,4 +8,7 @@
   - Node's framework for immersive CLI apps.
 
 - https://github.com/codegangsta/cli *Go*
-  - A small package for building command line apps in Go 
+  - A small package for building command line apps in Go
+  
+- https://github.com/tj/commander.js *NodeJS*
+  - node.js command-line interfaces made easy 
