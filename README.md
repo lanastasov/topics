@@ -28,3 +28,4 @@
  - filter
  - talks
  - ecommerce
+ - wiki_blog
