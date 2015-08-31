@@ -8,3 +8,5 @@
   - The Ruby Programming Language
 - https://github.com/nitlang/nit
   - Nit language 
+- https://github.com/groovy/groovy-core
+  - Groovy programming language
