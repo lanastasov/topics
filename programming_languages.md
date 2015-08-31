@@ -12,3 +12,5 @@
   - Groovy programming language
 - https://github.com/facebook/graphql
   - GraphQL is a query language and execution engine tied to any backend service
+- https://github.com/elm-lang/elm-compiler
+  - Compiler for the Elm programming language. Elm aims to make web development more pleasant  
