@@ -18,3 +18,5 @@
   - if Ruby and React had an indentation based lovechild, what would it look like? Imba is a new programming language for the web that compiles to performant and readable JavaScript. http://imba.io
 - https://github.com/soywiz/explang
   - Experimental language 
+- https://github.com/slavapestov/factor
+  - Factor programming language - Github mirror of official GIT repo  
