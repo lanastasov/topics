@@ -6,3 +6,5 @@
   - A Go framework for building JSON web services inspired by Dropwizard 
 - https://github.com/yudai/gojsondiff
   - Go JSON Diff 
+- https://github.com/xeipuuv/gojsonschema
+  - An implementation of JSON Schema, draft v4 - Go language 
