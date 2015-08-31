@@ -1,0 +1,2 @@
+- https://github.com/whyrusleeping/hellabot
+  - A hella awesome irc bot framework written in go, Simply plug in your triggers and run!
