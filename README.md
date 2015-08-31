@@ -34,3 +34,4 @@
  - project management
  - game engines
  - computer networks
+ - math
