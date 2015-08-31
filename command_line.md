@@ -10,5 +10,8 @@
 - https://github.com/codegangsta/cli *Go*
   - A small package for building command line apps in Go
   
+- https://github.com/jpillora/opts
+  - A low friction command-line interface library for Go (Golang)
+
 - https://github.com/tj/commander.js *NodeJS*
   - node.js command-line interfaces made easy 
