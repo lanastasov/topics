@@ -30,3 +30,4 @@
  - ecommerce
  - wiki_blog
  - irc
+ - command line
