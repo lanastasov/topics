@@ -1,2 +1,4 @@
 - https://github.com/yujiod/wiki
   - A smart wiki software by Go language. http://wiki.factage.com
+- https://github.com/kabukky/journey
+  - A blog engine written in Go, compatible with Ghost themes. 
