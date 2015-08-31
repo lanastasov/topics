@@ -22,3 +22,5 @@
   - Factor programming language - Github mirror of official GIT repo  
 - https://github.com/toml-lang/toml
   - Tom's Obvious, Minimal Language
+- https://github.com/Frozenball/brave
+  - A programming language taking inspiration from Python and Ruby that compiles down to Javascript
