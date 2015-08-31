@@ -1,3 +1,5 @@
+- https://github.com/scala/scala
+  - The Scala programming language 
 - https://github.com/Feation/Feation *NodeJS*
   - (Work-In-Progress) The Feation programming language. http://feation.ml
 - https://github.com/ark-lang/ark *Go*
