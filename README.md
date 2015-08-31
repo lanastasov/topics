@@ -26,3 +26,4 @@
  - algorithm visualization
  - remote utility tool
  - filter
+ - talks
