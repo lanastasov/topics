@@ -25,3 +25,4 @@
  - examples
  - algorithm visualization
  - remote utility tool
+ - filter
