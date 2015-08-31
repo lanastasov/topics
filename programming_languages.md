@@ -10,3 +10,5 @@
   - Nit language 
 - https://github.com/groovy/groovy-core
   - Groovy programming language
+- https://github.com/facebook/graphql
+  - GraphQL is a query language and execution engine tied to any backend service
