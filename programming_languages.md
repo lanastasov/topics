@@ -14,3 +14,7 @@
   - GraphQL is a query language and execution engine tied to any backend service
 - https://github.com/elm-lang/elm-compiler
   - Compiler for the Elm programming language. Elm aims to make web development more pleasant  
+- https://github.com/somebee/imba
+  - if Ruby and React had an indentation based lovechild, what would it look like? Imba is a new programming language for the web that compiles to performant and readable JavaScript. http://imba.io
+- https://github.com/soywiz/explang
+  - Experimental language 
