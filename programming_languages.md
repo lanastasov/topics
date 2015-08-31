@@ -24,3 +24,5 @@
   - Tom's Obvious, Minimal Language
 - https://github.com/Frozenball/brave
   - A programming language taking inspiration from Python and Ruby that compiles down to Javascript
+- https://github.com/JuliaLang/julia
+  - The Julia Language: A fresh approach to technical computing 
