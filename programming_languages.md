@@ -6,3 +6,5 @@
   - A safe, concurrent, practical language.
 - https://github.com/ruby/ruby
   - The Ruby Programming Language
+- https://github.com/nitlang/nit
+  - Nit language 
