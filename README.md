@@ -29,3 +29,4 @@
  - talks
  - ecommerce
  - wiki_blog
+ - irc
