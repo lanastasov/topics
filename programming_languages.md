@@ -30,5 +30,7 @@
   - Koi is a small programming language designed to teach the basics of language implementation. [ALPHA]
 - https://github.com/hf/q
   - A simple programming language 
+- https://github.com/zellyn/gocool
+  - Go implementation of the Cool programming language
   
   
