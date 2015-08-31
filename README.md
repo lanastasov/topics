@@ -31,3 +31,4 @@
  - wiki_blog
  - irc
  - command line
+ - project management
