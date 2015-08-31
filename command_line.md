@@ -1,4 +1,11 @@
 - https://github.com/jlevy/the-art-of-command-line
   - Master the command line, in one page
+  
 - https://github.com/dufferzafar/cheat
   - Cheatsheets for command line, because, you know, life is too short to read manpages 
+  
+- https://github.com/dthree/vorpal *NodeJS*
+  - Node's framework for immersive CLI apps.
+
+- https://github.com/codegangsta/cli *Go*
+  - A small package for building command line apps in Go 
