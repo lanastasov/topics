@@ -40,4 +40,6 @@
   - The Groot Programming Language
 - https://github.com/luna/luna
   - luna programming language - a small, elegant VM implemented in C 
+- https://github.com/felixangell/vident
+  - A simple interpreted language written in Go for a blog series. 
   
