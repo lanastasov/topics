@@ -36,3 +36,4 @@
  - computer networks
  - math
  - books
+ - vim 
