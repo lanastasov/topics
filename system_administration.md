@@ -1,0 +1,2 @@
+- https://github.com/kahun/awesome-sysadmin
+  - awesome open source sysadmin resources
