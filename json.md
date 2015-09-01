@@ -15,6 +15,9 @@
 
 - https://github.com/spacetelescope/understanding-json-schema
   - accessible documentation for JSON schema 
+
+- https://github.com/minio/jsonrpc
+  - Minimal JSON RPC 2.0 Client Library for Javascript 
   
 - https://github.com/jinzhu/configor
   - Golang Configuration tool that support YAML, JSON, Shell Environment 
