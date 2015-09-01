@@ -3,6 +3,3 @@
   
 - https://github.com/igm/sockjs-go
   - WebSocket emulation - Go server library 
-  
-- https://github.com/igm/sockjs-go
-  - WebSocket emulation - Go server library 
