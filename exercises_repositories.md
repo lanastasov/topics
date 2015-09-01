@@ -12,3 +12,6 @@
 
 - http://golang-challenge.com/go-challenge6/
   - Learn Go by solving problems and getting feedback from Go experts
+  
+- https://github.com/peterbourgon/how-i-start-go
+  - How I Start: Go  
