@@ -15,3 +15,6 @@
 
 - https://github.com/spacetelescope/understanding-json-schema
   - accessible documentation for JSON schema 
+  
+- https://github.com/jinzhu/configor
+  - Golang Configuration tool that support YAML, JSON, Shell Environment 
