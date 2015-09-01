@@ -10,3 +10,5 @@
 - https://github.com/fpinscala/fpinscala *Scala*
   - Code, exercises, answers from book "Functional Programming in Scala" 
 
+- http://golang-challenge.com/go-challenge6/
+  - Learn Go by solving problems and getting feedback from Go experts
