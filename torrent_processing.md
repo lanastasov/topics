@@ -14,3 +14,6 @@
   - Implements uTP, the micro transport protocol as used with Bittorrent
 - https://github.com/netvarun/docket
   - Docket - Custom docker registry that allows for lightning fast deploys through bittorrent
+  
+- https://github.com/WhatCD/Gazelle *PHP*
+  - web framework geared towards private torrent trackers   
