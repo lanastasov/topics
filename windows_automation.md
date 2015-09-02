@@ -3,3 +3,9 @@
   
 - https://github.com/chocolatey/choco
   -  Like apt-get, but for windows
+    
+- http://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm
+  - Batch File Commands 
+
+- http://www.vectorsite.net/tsbatch.html#m7
+  - Windows Batch File Programming Primer
