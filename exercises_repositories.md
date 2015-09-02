@@ -10,11 +10,11 @@
 - https://github.com/fpinscala/fpinscala *Scala*
   - Code, exercises, answers from book "Functional Programming in Scala" 
 
-- http://golang-challenge.com/go-challenge6/
+- http://golang-challenge.com/go-challenge6/ *Go*
   - Learn Go by solving problems and getting feedback from Go experts
   
-- https://github.com/peterbourgon/how-i-start-go
+- https://github.com/peterbourgon/how-i-start-go *Go*
   - How I Start: Go  
   
-- https://github.com/gigasquid/wonderland-clojure-katas
+- https://github.com/gigasquid/wonderland-clojure-katas *Clojure*
   - Clojure Katas inspired by Alice in Wonderland 
