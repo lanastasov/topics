@@ -9,3 +9,6 @@
 
 - https://github.com/mattn/emmet-vim
   - emmet for vim
+  
+- https://github.com/fatih/vim-go
+  - Go development plugin for Vim 
