@@ -1,3 +1,6 @@
+- https://github.com/mholt/json-to-go
+  - Translates JSON into a Go type in your browser
+  
 - https://github.com/pquerna/ffjson *Go*
   - faster JSON serialization for Go 
 
