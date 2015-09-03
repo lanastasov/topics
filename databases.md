@@ -11,5 +11,8 @@
   - Learn MongoDB using the terminal
 
 - https://github.com/RNGR/Directus
-  - database GUI written in backbone.js  
+  - database GUI written in backbone.js 
+
+- https://github.com/mattn/go-sqlite3 *SQLite 3*
+  - sqlite3 driver for go that using database/sql 
 
