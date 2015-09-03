@@ -15,3 +15,6 @@
 
 - https://github.com/tj/commander.js *NodeJS*
   - node.js command-line interfaces made easy 
+  
+- https://github.com/GoBootcamp/clirescue *Exercise*
+  - CLI tool in Go to consumer a web API  
