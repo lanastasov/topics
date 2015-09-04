@@ -1,3 +1,6 @@
+- https://github.com/unrolled/render
+  - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
+  
 - https://github.com/mholt/json-to-go
   - Translates JSON into a Go type in your browser
 
