@@ -99,3 +99,6 @@
 
 - https://github.com/Flipboard/react-canvas
   - High performance <canvas> rendering for React components
+
+- https://github.com/STRML/react-grid-layout
+  - A draggable and resizable grid layout with responsive breakpoints, for React 
