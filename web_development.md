@@ -10,3 +10,5 @@
 - https://github.com/astaxie/beego
   - web framework for the Go programming language
   
+- https://github.com/astaxie/build-web-application-with-golang
+  - A golang ebook intro how to build a web with golang 
