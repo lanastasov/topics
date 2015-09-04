@@ -1,0 +1,2 @@
+- https://github.com/go-kit/kit
+  - A standard library for microservices
