@@ -2,4 +2,7 @@
   - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. http://websocketd.com/
   
 - https://github.com/igm/sockjs-go
-  - WebSocket emulation - Go server library 
+  - WebSocket emulation - Go server library
+  
+- https://github.com/centrifugal/centrifugo
+  - Real-time messaging (Websockets or SockJS) server in Go 
