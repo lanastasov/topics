@@ -7,3 +7,9 @@
 - http://pandoc.org/demos.html
 - http://textract.readthedocs.org/en/latest/
 - http://tika.apache.org/
+
+
+
+- https://github.com/js-ojus/damlevdist.go
+  - A program to compare a set of test words against a set of reference words (text similarity) using Damerau-Levenshtein distance.
+ 
