@@ -1,6 +1,9 @@
 - https://github.com/facebook/react
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
   
+- https://github.com/enaqx/awesome-react
+  - A collection of awesome things regarding React ecosystem 
+  
 - https://github.com/StephenGrider/ReactCasts
   - course Build Web Apps with React JS and Flux
 
