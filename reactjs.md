@@ -4,6 +4,9 @@
 - https://github.com/enaqx/awesome-react
   - A collection of awesome things regarding React ecosystem 
   
+- https://github.com/rackt/react-redux
+  - Official React bindings for Redux  
+  
 - https://github.com/StephenGrider/ReactCasts
   - course Build Web Apps with React JS and Flux
 
