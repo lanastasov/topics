@@ -1,3 +1,6 @@
+- https://github.com/lib/pq *Go* *PostgreSQL*
+  - Pure Go Postgres driver for database/sql 
+  
 - https://github.com/lukasmartinelli/pgfutter *PostgreSQL*
   - Import CSV and JSON into PostgreSQL the easy way
   
