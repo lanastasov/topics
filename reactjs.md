@@ -1,6 +1,9 @@
 - https://github.com/facebook/react
   - A declarative, efficient, and flexible JavaScript library for building user interfaces.
   
+- https://github.com/rackt/redux
+  - Predictable state container for JavaScript apps   
+  
 - https://github.com/enaqx/awesome-react
   - A collection of awesome things regarding React ecosystem 
   
