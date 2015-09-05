@@ -39,7 +39,10 @@
 
 - https://github.com/gpbl/react-day-picker
   - Customizable date picker component and calendar for React
-  
+
+- https://github.com/balloob/react-sidebar
+  - A sidebar component for React 
+
 - https://github.com/ggarek/react-selectize
   - React wrapper around selectize
   
