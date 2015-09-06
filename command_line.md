@@ -27,3 +27,7 @@
 
 - https://github.com/bozho/console
   - Console emulator  
+
+- https://github.com/shockone/black-screen
+  - A terminal emulator for the 21st century.
+ 
