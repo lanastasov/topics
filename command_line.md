@@ -21,6 +21,9 @@
   
 - https://github.com/GoBootcamp/clirescue *Exercise*
   - CLI tool in Go to consumer a web API  
-  
+
+- https://github.com/cmderdev/cmder
+  - Lovely console emulator package for Windows 
+
 - https://github.com/bozho/console
-  - Console repo  
+  - Console emulator  
