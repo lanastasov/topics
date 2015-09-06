@@ -114,3 +114,7 @@
 
 - https://github.com/STRML/react-grid-layout
   - A draggable and resizable grid layout with responsive breakpoints, for React 
+  
+- https://github.com/alexkuz/react-dock
+  - Resizable dockable react component http://alexkuz.github.io/react-dock/demo/
+ 
