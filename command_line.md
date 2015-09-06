@@ -1,6 +1,9 @@
 - https://github.com/jlevy/the-art-of-command-line
   - Master the command line, in one page
   
+- https://github.com/jawher/mow.cli
+  - A versatile library for building command line applications in Go 
+  
 - https://github.com/dufferzafar/cheat
   - Cheatsheets for command line, because, you know, life is too short to read manpages 
   
