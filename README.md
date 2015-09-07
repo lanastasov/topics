@@ -40,6 +40,7 @@
  - vim 
  - windows automation
  - web development
+ - deployment
  - system administration
  - operating system services
  - time
