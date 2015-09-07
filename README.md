@@ -11,6 +11,7 @@
  - golang packages
  - exercises repositories
  - sass
+ - image processing
  - audio processing
  - torrent processing
  - websockets
