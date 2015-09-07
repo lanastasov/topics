@@ -6,3 +6,6 @@
   
 - https://github.com/mjibson/mog
   - An audio player written in Go
+  
+- https://github.com/nf/goplayer
+  - A web-based music player 
