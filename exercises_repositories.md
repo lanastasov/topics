@@ -15,6 +15,9 @@
   
 - https://github.com/peterbourgon/how-i-start-go *Go*
   - How I Start: Go  
-  
+
+- https://github.com/cdarwin/go-koans
+  - koans for go 
+
 - https://github.com/gigasquid/wonderland-clojure-katas *Clojure*
   - Clojure Katas inspired by Alice in Wonderland 
