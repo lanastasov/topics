@@ -51,3 +51,4 @@
  - workflow
  - SparseBitSet
  - syntax highlighting
+ - video players
