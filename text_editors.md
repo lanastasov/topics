@@ -4,5 +4,7 @@
   - A Web-based IDE for Teams using Go programming language/Golang. https://wide.b3log.org
 - https://github.com/codemirror/CodeMirror
   - In-browser code editor http://codemirror.net/
+- https://github.com/danilolekovic/Liveloper
+  - live web development in the browser 
  
  
