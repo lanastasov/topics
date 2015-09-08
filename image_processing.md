@@ -6,3 +6,6 @@
 
 - https://github.com/nfnt/resize
   -  Pure golang image resizing
+
+- https://github.com/pressly/imgry
+  - On-demand image sizing+delivery for responsive applications 
