@@ -50,3 +50,4 @@
  - microservices
  - workflow
  - SparseBitSet
+ - syntax highlighting
