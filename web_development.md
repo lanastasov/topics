@@ -15,3 +15,6 @@
   
 - https://github.com/GeertJohan/go.rice
   - working with resources such as html,js,css,images,templates, etc very easy 
+
+- https://github.com/zenazn/goji *Go*
+  - minimalistic web framework 
