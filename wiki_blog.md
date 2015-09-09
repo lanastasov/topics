@@ -6,3 +6,6 @@
 
 - https://github.com/spf13/hugo
   - A Fast and Flexible Static Site Generator built with love by spf13 in GoLang 
+  
+- https://github.com/peterhellberg/wiki
+  - A tiny wiki using Goji, BoltDB and Blackfriday 
