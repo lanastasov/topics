@@ -3,3 +3,6 @@
   
 - https://github.com/jwplayer/jwplayer
   - most popular embeddable media player
+  
+- https://github.com/videojs/video.js
+  - open source HTML5 & Flash video player 
