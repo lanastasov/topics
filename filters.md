@@ -4,3 +4,6 @@
 
 - https://github.com/trending?l=viml *VimL*
   - Trending VimL (Vim Script) Plugins
+  
+- https://developer.github.com/v3/search/
+  - github search filters
