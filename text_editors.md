@@ -5,6 +5,8 @@
 - https://github.com/codemirror/CodeMirror
   - In-browser code editor http://codemirror.net/
 - https://github.com/danilolekovic/Liveloper
-  - live web development in the browser 
+  - live web development in the browser
+- https://github.com/fatiherikli/fil
+  - A playground for in-browser interpreters. Built with React/Redux. 
  
  
