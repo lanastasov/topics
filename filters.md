@@ -1,6 +1,5 @@
-- https://github.com/search?o=desc&q=created%3A>2015-01-01+language%3AELM&s=updated&type=Repositories&utf8=✓
+- https://github.com/search?o=desc&q=created%3A%3E2015-01-01+language%3AELM+stars%3A%3E%3D0+sort%3Aupdated&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93
   - Search · created:>2015-01-01 language:ELM
-  
 
 - https://github.com/trending?l=viml *VimL*
   - Trending VimL (Vim Script) Plugins
