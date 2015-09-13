@@ -6,3 +6,6 @@
   
 - https://developer.github.com/v3/search/
   - github search filters
+  
+- https://help.github.com/articles/searching-repositories/
+  - github search repositories 
