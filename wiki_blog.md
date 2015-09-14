@@ -9,3 +9,6 @@
   
 - https://github.com/peterhellberg/wiki
   - A tiny wiki using Goji, BoltDB and Blackfriday 
+
+- https://github.com/fuxiaohei/purine
+  - A Fast and Powerful Blog Framework built in Go   
