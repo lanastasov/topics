@@ -6,3 +6,6 @@
   
 - https://github.com/videojs/video.js
   - open source HTML5 & Flash video player 
+  
+- https://github.com/berrberr/streamkeys
+  - Global media player hotkeys for chrome
