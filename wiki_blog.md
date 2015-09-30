@@ -11,4 +11,7 @@
   - A tiny wiki using Goji, BoltDB and Blackfriday 
 
 - https://github.com/fuxiaohei/purine
-  - A Fast and Powerful Blog Framework built in Go   
+  - A Fast and Powerful Blog Framework built in Go  
+  
+- https://github.com/InkProject/ink *Go*
+  - An elegant static blog generator 
