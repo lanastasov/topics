@@ -1,3 +1,6 @@
+- https://github.com/enaqx/awesome-react
+  - regarding React ecosystem 
+  
 - https://github.com/avelino/awesome-go
   - awesome Go frameworks, libraries and software
 
