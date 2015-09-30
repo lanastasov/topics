@@ -7,5 +7,8 @@
 - https://github.com/sindresorhus/awesome
   - A curated list of awesome lists
 
+- https://github.com/sindresorhus/awesome-electron
+  - creating apps with Electron 
+
 - https://github.com/moredip/awesome-speaking
   - public speaking  
