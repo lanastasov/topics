@@ -3,4 +3,7 @@
 
 - https://github.com/chrissimpkins/Hack
   - A typeface designed for source code http://sourcefoundry.org/hack/
+  
+- https://github.com/KyleAMathews/typography.js
+  - toolkit for building websites with beautiful typography 
  
