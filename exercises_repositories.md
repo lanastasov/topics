@@ -1,6 +1,9 @@
 - http://rosettacode.org/wiki/String_interpolation_(included)#Go
   - one and the same thing in many languages 
 
+- http://www.c4learn.com/c-programs/
+  - C Learning Made Simple 
+
 - https://github.com/crista/exercises-in-programming-style
   - Comprehensive collection of programming styles using a simple computational task, term frequency
   
