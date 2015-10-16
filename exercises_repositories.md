@@ -3,6 +3,9 @@
 
 - http://www.c4learn.com/c-programs/
   - C Learning Made Simple 
+  
+https://github.com/kolodny/exercises *JavaScript*
+  - Some basic javascript coding challenges and interview questions
 
 - https://github.com/crista/exercises-in-programming-style
   - Comprehensive collection of programming styles using a simple computational task, term frequency
