@@ -1,3 +1,6 @@
+- http://www.typographydeconstructed.com/
+  - learning resource
+  
 - https://github.com/davidmerfield/Typeset
   - An html pre-proces­sor for web ty­pog­ra­phy
 
