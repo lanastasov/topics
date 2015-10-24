@@ -3,3 +3,6 @@
   
 - https://github.com/attilaolah/pinfeed
   - Pinterest feed proxy with large images 
+  
+- https://github.com/zimmski/feedme
+  - create Atom/RSS feeds from any website 
