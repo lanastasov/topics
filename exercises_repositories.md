@@ -1,3 +1,6 @@
+- https://github.com/ardanlabs/gotraining
+  - Hardcore Go Training Class Material 
+  
 - http://rosettacode.org/wiki/String_interpolation_(included)#Go
   - one and the same thing in many languages 
 
