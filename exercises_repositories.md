@@ -1,3 +1,6 @@
+- https://github.com/arschles/go-in-5-minutes
+  - Code for Go in 5 Minutes Screencasts 
+
 - https://github.com/ardanlabs/gotraining
   - Hardcore Go Training Class Material 
   
