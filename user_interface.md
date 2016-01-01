@@ -10,6 +10,9 @@
   - twitter client using GXUI
   
 - https://github.com/google/gxui *Go*
-  - An experimental Go cross platform UI library.  
+  - An experimental Go cross platform UI library. 
+  
+- https://github.com/visualfc/goqt
+  - Golang bindings to the Qt cross-platform application framework 
 
  
