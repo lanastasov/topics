@@ -1,3 +1,6 @@
+- https://github.com/lingo-reviews/lingo
+  - Scaling Code Quality 
+
 - https://github.com/kern/filepizza
   - Peer-to-peer file transfers in your browser http://file.pizza
 
