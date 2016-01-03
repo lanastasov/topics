@@ -7,6 +7,9 @@
 - https://codegangsta.gitbooks.io/building-web-apps-with-go/content/  
   - Building web apps with GO
   
+- http://www.howistart.org/posts/go/1#making-a-web-server
+  - How I Start Go
+  
 - https://www.golang-book.com/books/intro
   - An Introduction to Programming in Go   
 
