@@ -10,8 +10,8 @@
 - https://github.com/peterhellberg/wiki
   - A tiny wiki using Goji, BoltDB and Blackfriday 
 
-- https://github.com/fuxiaohei/purine
-  - A Fast and Powerful Blog Framework built in Go  
+- https://github.com/go-xiaohei/pugo
+  - a static site generator & deployer  
   
 - https://github.com/InkProject/ink *Go*
   - An elegant static blog generator 
