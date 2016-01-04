@@ -1,3 +1,6 @@
+- https://github.com/ericchiang/pup
+  - Parsing HTML at the command line
+
 - https://github.com/advancedlogic/GoOse
   - Html Content / Article Extractor in Golang
   
