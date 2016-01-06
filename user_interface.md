@@ -14,5 +14,8 @@
   
 - https://github.com/visualfc/goqt
   - Golang bindings to the Qt cross-platform application framework 
-
+  
+- https://github.com/shibukawa/nanovgo
+  - NanoVG is a vector graphics engine inspired by HTML5 Canvas
+  - https://shibukawa.github.io/nanovgo/
  
