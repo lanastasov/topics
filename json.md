@@ -30,3 +30,6 @@
   
 - https://github.com/jinzhu/configor
   - Golang Configuration tool that support YAML, JSON, Shell Environment 
+
+- https://github.com/elgs/jsonql
+  - JSON query library in Golang.
