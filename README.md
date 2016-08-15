@@ -1,4 +1,5 @@
 *topics*
+ - gui
  - text processing
  - markdown parsers
  - knowledge organization
