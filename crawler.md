@@ -9,3 +9,6 @@
   
 - https://github.com/PuerkitoBio/fetchbot
   - A simple and flexible web crawler that follows the robots.txt policies and crawl delays 
+
+- https://github.com/minamijoyo/commit-crawler/blob/master/crawler.rb
+  - collects commit messages on the GitHub popular repositories 
