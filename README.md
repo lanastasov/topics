@@ -37,6 +37,7 @@
  - game engines
  - computer networks
  - math
+ - machine learning
  - books
  - vim 
  - windows automation
