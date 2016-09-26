@@ -8,3 +8,5 @@
   - CLI Go regular expression tester
 - https://github.com/jneem/regex-dfa *Rust*
   - Proof of concept for fast regexes in rust
+- https://github.com/VerbalExpressions/GoVerbalExpressions
+  - Go VerbalExpressions make regular expression easy
