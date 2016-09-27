@@ -3,3 +3,6 @@ https://github.com/peterhoward42/godesktopgui
 
 https://github.com/therecipe/qt
 - Qt binding for Go
+
+https://github.com/alexflint/gallium
+- Build desktop applications in Go and HTML.
