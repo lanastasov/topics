@@ -6,3 +6,5 @@
 
 - https://github.com/connors/photon
   - The fastest way to build beautiful Electron apps using simple HTML and CSS
+- https://github.com/feross/electron-workshop
+  - Workshop: Build cross-platform desktop apps with Electron
