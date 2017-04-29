@@ -55,3 +55,4 @@
  - syntax highlighting
  - video players
  - watcher
+ - autoscale
