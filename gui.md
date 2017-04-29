@@ -6,3 +6,6 @@ https://github.com/therecipe/qt
 
 https://github.com/alexflint/gallium
 - Build desktop applications in Go and HTML.
+
+https://github.com/asticode/go-astilectron
+- Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
