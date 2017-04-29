@@ -54,3 +54,4 @@
  - SparseBitSet
  - syntax highlighting
  - video players
+ - watcher
