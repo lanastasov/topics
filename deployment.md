@@ -5,4 +5,7 @@
   - auto-deployable static websites http://mcuadros.github.io/autohugo
 
 - https://github.com/applikatoni/applikatoni
-  - A self-hosted deployment server for your team 
+  - A self-hosted deployment server for your team
+
+- https://github.com/awslabs/golang-deployment-pipeline
+  - An example of infrastructure and application CI/CD with AWS
