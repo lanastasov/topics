@@ -56,3 +56,4 @@
  - video players
  - watcher
  - autoscale
+ - icons
