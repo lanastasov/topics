@@ -33,3 +33,6 @@
 
 - https://github.com/elgs/jsonql
   - JSON query library in Golang.
+
+- https://github.com/json-iterator/go
+  - fast and flexible JSON parser
