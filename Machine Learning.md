@@ -7,3 +7,6 @@
 
 - https://github.com/chewxy/gorgonia
   - Gorgonia is a library that helps facilitate machine learning in Go.
+  
+- https://github.com/kailashahirwar/cheatsheets-ai
+  - Essential Cheat Sheets for deep learning and machine learning researchers
