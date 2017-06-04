@@ -21,3 +21,6 @@
 
 - https://github.com/go-aah/aah
   - A scalable, performant, rapid development Web framework for Go
+
+- https://github.com/radicalmind/xeon
+  - fast backend web framework written entirely in Google’s Go Language
