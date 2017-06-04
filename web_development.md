@@ -24,3 +24,6 @@
 
 - https://github.com/radicalmind/xeon
   - fast backend web framework written entirely in Google’s Go Language
+
+- https://github.com/labstack/echo
+  - High performance, minimalist Go web framework
