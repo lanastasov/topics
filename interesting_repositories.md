@@ -19,4 +19,8 @@
 - https://github.com/prometheus/prometheus
   - The Prometheus monitoring system and time series database 
  
+- https://github.com/gopherjs/vecty
+  - frontend toolkit for GopherJS
  
+- https://github.com/spolu/warp
+  - Secure and simple terminal sharing
