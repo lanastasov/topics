@@ -26,3 +26,5 @@
 - https://github.com/cayleygraph/cayley
   - An open-source graph database
 
+- https://github.com/erikolson186/zangodb
+  - MongoDB-like interface for HTML5 IndexedDB
