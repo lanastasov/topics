@@ -24,3 +24,6 @@
  
 - https://github.com/spolu/warp
   - Secure and simple terminal sharing
+
+- https://github.com/peco/peco
+  - Simplistic interactive filtering tool
