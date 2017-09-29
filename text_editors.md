@@ -8,7 +8,9 @@
   - live web development in the browser
 - https://github.com/fatiherikli/fil
   - A playground for in-browser interpreters. Built with React/Redux. 
-  
 - https://github.com/basecamp/trix
   - A rich text editor for everyday writing http://trix-editor.org/
+- https://github.com/zyedidia/micro
+  - A modern and intuitive terminal-based text editor https://micro-editor.github.io
+
  
