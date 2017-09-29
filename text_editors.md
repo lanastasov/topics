@@ -12,5 +12,7 @@
   - A rich text editor for everyday writing http://trix-editor.org/
 - https://github.com/zyedidia/micro
   - A modern and intuitive terminal-based text editor https://micro-editor.github.io
+- https://github.com/kazzkiq/CodeFlask.js
+  - A micro code-editor for awesome web pages.
 
  
