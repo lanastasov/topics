@@ -3,6 +3,7 @@
 - https://github.com/search?o=desc&q=language%3AElm+stars%3A%3E%3D0+pushed%3A%3E%3D2017-05-30&s=updated&type=Repositories&utf8=%E2%9C%93
   - pushed:>=2017-05-30
   - sort:updated
+  - stars:10..30
   
 - https://github.com/trending?l=viml *VimL*
   - Trending VimL (Vim Script) Plugins
