@@ -17,3 +17,6 @@
   
 - https://help.github.com/articles/searching-repositories/
   - github search repositories 
+  
+- https://developer.github.com/v3/activity/feeds/#example-of-getting-an-atom-feed
+  - Feeds
