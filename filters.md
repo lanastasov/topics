@@ -5,6 +5,9 @@
   - sort:updated
   - stars:>=100
   - stars:10..30
+
+- https://github.com/search?q=followers%3A%3E%3D1000&type=users
+  - followers:>=1000
   
 - https://github.com/trending?l=viml *VimL*
   - Trending VimL (Vim Script) Plugins
